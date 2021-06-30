@@ -1,0 +1,116 @@
+html {
+	margin: 0;
+	/*background-color: pink;*/
+   /* background-image:url(../banner.png);
+	background-repeat:no-repeat;
+	background-size:center center;*/
+
+}
+.low {
+	font-size: 200%;
+	color: Indigo;
+	font-style: bold;
+}
+.high {
+	font-size:200%;
+	color: DarkBlue;
+	font-style: bold;
+}
+h1 {
+	margin: 200;
+	font-family: Georgia Italic;
+	font-size:200%;
+	font-style: bold Itlaic;
+	
+}
+
+.anki1 {
+	position: relative;
+}
+.anki {
+	padding: 0 300px;
+	position: absolute;
+	font-family: Georgia;
+	font-size: 120%;
+	font-style: bold;
+	bottom: 0px;
+	right: 30px;
+	padding-left:420px;
+    padding-right: 300px;
+	
+	color: DarkBlue;
+		
+}
+.container {
+	padding: 100px 100px;
+	position: relative;
+	
+	
+}
+.p1 {
+	padding:0 300px;
+	font-family: Georgia ;
+	color: black;
+	font-size: 150%;
+	font-style: bold;
+}
+.p2 {
+	padding:0 300px;
+	font-family: Georgia ;
+	color: black;
+	font-size: 150%;
+	font-style: bold;
+	color: DarkBlue;
+}
+.today {
+	
+	position: absolute;
+	
+	bottom:150px;
+	right: 650px;
+	padding-left: 300px;
+    padding-right: 150px;
+	font-family: Georgia ;
+	color: black;
+	font-size: 100%;
+	font-style: bold;
+    
+}
+.sidebar {
+	width: 50%;
+	float: left;
+	padding-right:20px;
+	padding-left: 20px;
+	box-sizing: border-box;
+}
+.image1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 50px;
+	padding-right: 30px;
+	width: 95%;
+}
+.img1 {
+	display: block;
+	margin-left: auto;
+	margin-right: 30px;
+	padding-left: 50px;
+	width: 90%;
+	height: 200%;
+}
+.personal {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 100px;
+	
+}
+.poetry {
+	display: block;
+	
+	margin-left: 200px;
+	margin-right: auto;
+	padding-left: 20px;
+	
+}
